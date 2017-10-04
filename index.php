@@ -7,8 +7,8 @@
     border-collapse: collapse;
     width: 100%;
 }
-h1 {
-  color: #4CAF50;
+h2 {
+  color:#4CB4C3;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 body {
@@ -30,15 +30,15 @@ td {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #4CAF50;
+    background-color: #4CB4C3;
     color: white;
 }
 </style>
 </head>
 <body>
-
+<img src="logo.png">
 <table id="customers">
-  <h1>October</h1>
+  <h2>October</h1>
   <tr>
     <th>Date</th>
     <th>Topic</th>
@@ -96,7 +96,7 @@ td {
   </tr>
 </table>
 <table id="customers">
-  <h1>November</h1>
+  <h2>November</h1>
   <tr>
     <th>Date</th>
     <th>Topic</th>
@@ -154,7 +154,7 @@ td {
   </tr>
 </table>
 <table id="customers">
-  <h1>November</h1>
+  <h2>December</h1>
   <tr>
     <th>Date</th>
     <th>Topic</th>
