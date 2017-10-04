@@ -2,25 +2,82 @@
 <html>
 <head>
 <style>
-table, th, td {
-    border: 1px solid black;
-    padding: 5px;
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
 }
-table {
-    border-spacing: 15px;
+h1 {
+  color: #4CAF50;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: #232423;
+}
+td {
+  color:white;
+}
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
 }
 </style>
 </head>
 <body>
-  <?php
-  ?>
 
-<table style="width:100%">
+<table id="customers">
   <h1>October</h1>
   <tr>
     <th>Date</th>
-    <th>Topic</th> 
-    <th>Hours worked</th>
+    <th>Topic</th>
+    <th>Hours</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -38,13 +95,47 @@ table {
     <td></td>
   </tr>
 </table>
-
-<table style="width:100%">
+<table id="customers">
   <h1>November</h1>
   <tr>
     <th>Date</th>
-    <th>Topic</th> 
-    <th>Hours worked</th>
+    <th>Topic</th>
+    <th>Hours</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -62,17 +153,51 @@ table {
     <td></td>
   </tr>
 </table>
-
-<table style="width:100%">
-  <h1>December</h1>
+<table id="customers">
+  <h1>November</h1>
   <tr>
     <th>Date</th>
-    <th>Topic</th> 
-    <th>Hours worked</th>
+    <th>Topic</th>
+    <th>Hours</th>
   </tr>
   <tr>
-    <td>10/4/17</td>
-    <td>User registration</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -86,8 +211,6 @@ table {
     <td></td>
   </tr>
 </table>
-
-
 
 </body>
 </html>
