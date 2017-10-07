@@ -45,9 +45,9 @@ td {
     <th>Hours</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10/5/17</td>
+    <td>SplashScreen/First View</td>
+    <td>1:28.27</td>
   </tr>
   <tr>
     <td></td>
