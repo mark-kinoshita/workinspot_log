@@ -50,9 +50,9 @@ td {
     <td>1:28.27</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10/7/17</td>
+    <td>FirstView/SeconView</td>
+    <td>1:57.44</td>
   </tr>
   <tr>
     <td></td>
