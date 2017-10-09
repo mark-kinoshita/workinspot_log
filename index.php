@@ -60,9 +60,9 @@ td {
     <td>1:24.02</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10/9/17</td>
+    <td>1:18.44</td>
+    <td>Third View/ Fourth View</td>
   </tr>
   <tr>
     <td></td>
