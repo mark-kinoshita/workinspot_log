@@ -65,7 +65,7 @@ td {
   </tr>
   <tr>
     <td>10/10/17</td>
-    <td>Database/</td>
+    <td>Database & User authetication</td>
     <td>4:06.27</td>
   </tr>
   <tr>
