@@ -49,7 +49,6 @@ td {
     <td>SplashScreen/First View</td>
     <td>1:28.27</td>
   </tr>
-  <tr>
     <td>10/7/17</td>
     <td>First View/Second View</td>
     <td>1:57.44</td>
@@ -65,14 +64,9 @@ td {
     <td>1:18.44</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10/10/17</td>
+    <td>Database/</td>
+    <td>4:06.27</td>
   </tr>
   <tr>
     <td></td>
